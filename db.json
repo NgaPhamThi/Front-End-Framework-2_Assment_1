@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "name": "Product N update"
+    },
+    {
+      "name": "Product H",
+      "id": 5
+    },
+    {
+      "name": "Product H",
+      "id": 6
+    },
+    {
+      "name": "Product k",
+      "id": 7
+    }
+  ]
+}
